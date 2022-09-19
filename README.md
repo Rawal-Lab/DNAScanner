@@ -1,13 +1,13 @@
 # DNAScanner
 DNAScanner is a tool wirtten in Python that scans genomic DNA for a number of different physicochemical properties by incorporating biophysical, thermodynamic, protein interactions and sequence based features.
 
-### Requirements
+## Requirements
 
 Miniconda/Anaconda
 
 Git
 
-### Installation
+## Installation
 Clone the repo
 
 ```bash
@@ -22,7 +22,7 @@ conda env create -f DNAScanner_env.yml
 ```
 Done.
 
-### Procedure 
+## Procedure 
 Run via terminal
 Syntax : 
 
@@ -30,7 +30,7 @@ Syntax :
 python3 DNAScanner.py 'input-filename'.fasta
 ```
 
-### Output
+## Output
 Nucleotide_Concentration : These outputs comprise of csv files mentioning the concentration of the nucleotide group in the given block.
 
 Parameters : These outputs comprise of csv files mentioning the parameters of the nucleotide group wrt. their positions in the sequence.
