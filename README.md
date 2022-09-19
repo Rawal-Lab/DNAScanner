@@ -10,7 +10,7 @@ Clone the repo
 
 ```bash
 git clone https://github.com/Rawal-Lab/DNAScanner.git
-cd /DNAScanner
+cd DNAScanner/
 ```
 
 Set up environment 
