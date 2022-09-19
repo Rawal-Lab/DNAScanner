@@ -7,6 +7,11 @@ Git
 
 ### Installation
 Clone the repo
+
+```bash
+git clone
+```
+
 Set up environment 
 
 ```bash
