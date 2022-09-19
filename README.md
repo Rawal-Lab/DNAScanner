@@ -26,5 +26,3 @@ python3 DNAScanner.py 'input-filename'.fasta
 Nucleotide_Concentration : These outputs comprise of csv files mentioning the concentration of the nucleotide group in the given block.
 Parameters : These outputs comprise of csv files mentioning the parameters of the nucleotide group wrt. their positions in the sequence.
 Plots : HTML generated plots with sliders.  
-
-
