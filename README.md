@@ -3,6 +3,7 @@ DNAScanner is a tool wirtten in Python that scans genomic DNA for a number of di
 
 ### Requirements
 Miniconda/Anaconda
+Git
 
 ### Installation
 Clone the repo
